@@ -1,0 +1,8 @@
+2019-04-06 23:48:40,210 DEBUG t.Logstest [main] I am Debugging new
+2019-04-06 23:48:40,218 INFO t.Logstest [main] I m info new
+2019-04-06 23:48:40,218 ERROR t.Logstest [main] I m error new 
+23:51:22.263 [main] DEBUG testlog.Logstest - I am Debugging new 
+23:51:22.266 [main] INFO  testlog.Logstest - I m info new
+23:51:22.266 [main] ERROR testlog.Logstest - I m error new
+23:51:22.266 [main] DEBUG testlog.Logstest - I am Debugging new
+23:51:22.266 [main] INFO  testlog.Logstest - I m info new

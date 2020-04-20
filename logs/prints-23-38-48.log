@@ -1,0 +1,9 @@
+23:38:36.631 [main] DEBUG testlog.Logstest - I am Debugging new 
+23:38:36.928 [main] INFO  testlog.Logstest - I m info new
+23:38:36.928 [main] ERROR testlog.Logstest - I m error new
+23:38:36.928 [main] DEBUG testlog.Logstest - I am Debugging new
+23:38:36.928 [main] INFO  testlog.Logstest - I m info new
+23:38:36.928 [main] ERROR testlog.Logstest - I m error new 
+23:38:48.633 [main] DEBUG testlog.Logstest - I am Debugging new 
+23:38:48.633 [main] INFO  testlog.Logstest - I m info new
+23:38:48.633 [main] ERROR testlog.Logstest - I m error new
